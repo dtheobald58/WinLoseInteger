@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\WinLoseInteger\WinLoseInteger\bin\Debug\WinLoseInteger.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\WinLoseInteger\WinLoseInteger\bin\Debug\WinLoseInteger.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\WinLoseInteger\WinLoseInteger\bin\Debug\WinLoseInteger.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\WinLoseInteger\WinLoseInteger\obj\Debug\WinLoseInteger.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\WinLoseInteger\WinLoseInteger\obj\Debug\WinLoseInteger.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\WinLoseInteger\WinLoseInteger\obj\Debug\WinLoseInteger.pdb
